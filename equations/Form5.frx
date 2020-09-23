@@ -1,0 +1,26 @@
+ÿ”***	Supported Functions:
+	Sin(EQUATION),Cos(EQUATION),Tan(EQUATION)
+	Log(EQUATION)
+	Use ^ for power
+	you can't use 2x or 4x u must use 2*x,4*x instead
+
+
+
+1.	You will write the equation without the "Y="
+	Ex: x-1
+	You can separate more than one equations using the comma ","
+
+
+
+2.	You can zoom inside the equation using the X-Scale & Y-Scale
+	The X-Scale for the horizontal axis, the Y is for the vertical
+
+
+
+3.	You can also specify the accuracy (X-step) for drawing the equations
+	1 is optimum for linear equations
+	0.1 for Complex Equations Ex: Sin(X^2)
+
+
+
+4.	You can use the prescale to modify the scale and the X-step automatically
